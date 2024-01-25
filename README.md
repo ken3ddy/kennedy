@@ -1,2 +1,2 @@
 # kennedy
-portifolio
+portfolio
